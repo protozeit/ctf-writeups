@@ -20,7 +20,7 @@ There's a few instances of flag in the source but the most interesting is the va
 
 # Solution
 
-If we base64 decode that flag we get something called [jsfuck](www.jsfuck.com)
+If we base64 decode that flag we get something called [jsfuck](http://www.jsfuck.com)
 
 ```bash
 base64 -d flag > jsfuck.js
