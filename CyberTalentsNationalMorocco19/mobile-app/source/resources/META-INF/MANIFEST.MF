@@ -1,0 +1,103 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 3.0.1
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 6pRZbaQR8PPdxO47SC7qLJD1B6WlVW+WcXjCZNpkTFY=
+
+Name: assets/www/cordova-js-src/android/nativeapiprovider.js
+SHA-256-Digest: a5OrdJ06OMPBrv0kr3JY7hZKfb1ZEmvl7hUklRoeoTA=
+
+Name: assets/www/cordova-js-src/android/promptbasednativeapi.js
+SHA-256-Digest: ry2twh3bUsw3LvCu+Nrv4mSOuyJfSS0B5UuupSOaujI=
+
+Name: assets/www/cordova-js-src/exec.js
+SHA-256-Digest: HPHfrlJsa+LP3eury4Id3C93/ONiKNUepKN0IOvl1PI=
+
+Name: assets/www/cordova-js-src/platform.js
+SHA-256-Digest: iYMwKPWN2p0026cFvU2Nb8o6/NAeIE3EpJ+MQYZ8zB8=
+
+Name: assets/www/cordova-js-src/plugin/android/app.js
+SHA-256-Digest: BAnPbjfmcjvuiMbEJQs9ZyITfxQN9H8A/w6R1mFdoE4=
+
+Name: assets/www/cordova.js
+SHA-256-Digest: OH81Ysb6jtPErm6SClhYoZCkozrbK1eHu9LGnWRpS24=
+
+Name: assets/www/cordova_plugins.js
+SHA-256-Digest: k6baAz4bpYLmsYUf6NQA8+2skKyjBM8NwEPZpd79pcI=
+
+Name: assets/www/css/index.css
+SHA-256-Digest: 5bg/tLVvOVZjiDi1fEL1Cdhdj8DgKy/4485HSbcgzQc=
+
+Name: assets/www/img/logo.png
+SHA-256-Digest: 8JmHrhEr2x//0WYZDQyLdQyvokuPf/rAP06Yuah4neM=
+
+Name: assets/www/index.html
+SHA-256-Digest: 9ZCWM5Cf+aSUkceC5IhX/fhhO1klABxn8gKGwy5R+Lo=
+
+Name: assets/www/js/index.js
+SHA-256-Digest: xNHMNI7Y7LtRfAEqyZoeObKcmanqVqAiI56A1iLArCw=
+
+Name: classes.dex
+SHA-256-Digest: T5Gp+bOB59QXso4CVeek13Vr5FoALu7BkXVEzKk5nGo=
+
+Name: res/drawable-land-hdpi-v4/screen.png
+SHA-256-Digest: USuhVj5NOfdtZsD/0FZ04rXt86qmLGwE0mxI23kAe10=
+
+Name: res/drawable-land-ldpi-v4/screen.png
+SHA-256-Digest: KtAVwhg9ErZDwaxPyVqH8dzTpwOeryaMIFt00ZvPEGQ=
+
+Name: res/drawable-land-mdpi-v4/screen.png
+SHA-256-Digest: Om917BrIPx2xFy70OqoTD8IPz5T3SDAnFsmt55CCA6E=
+
+Name: res/drawable-land-xhdpi-v4/screen.png
+SHA-256-Digest: IvydbIA0XepdY9CpHYUJl2oInxN9Scd50vFEx+Q5leY=
+
+Name: res/drawable-land-xxhdpi-v4/screen.png
+SHA-256-Digest: WnxbYGBjeD9D6UQ5vzXH3h47OUGN4SmhDNvFZF71/MA=
+
+Name: res/drawable-land-xxxhdpi-v4/screen.png
+SHA-256-Digest: K3FxJM2LeoeLMyiEe37QKZ9+AiJWBQ89OCoOP+rekOc=
+
+Name: res/drawable-port-hdpi-v4/screen.png
+SHA-256-Digest: jLrMZPBh9cifh1PJfO3qSNMNeXxnzhf8czL7UoKSIic=
+
+Name: res/drawable-port-ldpi-v4/screen.png
+SHA-256-Digest: 04OuSS8jdri1GpVFxT3xp+XF5z1RpgdtOmpLNatJ7I4=
+
+Name: res/drawable-port-mdpi-v4/screen.png
+SHA-256-Digest: gH5yIDuJSBYS64ZFpTgH0UWYxTtZAG42CmtbfDxWLZQ=
+
+Name: res/drawable-port-xhdpi-v4/screen.png
+SHA-256-Digest: ck+OOJzY07irNYN/m6CYSgHGzy7bSmc/64+yl/L19BI=
+
+Name: res/drawable-port-xxhdpi-v4/screen.png
+SHA-256-Digest: PmmEvwffKaVCucK8ibnIOgTE7JHaW3a0+Mo5eqjs7wc=
+
+Name: res/drawable-port-xxxhdpi-v4/screen.png
+SHA-256-Digest: NiR2UAoK64WY2AuwdnA8l9JbSKteol17u8wB5i9IVCY=
+
+Name: res/mipmap-hdpi-v4/icon.png
+SHA-256-Digest: CV4DgwQHmGYsNZbwy8+aWbTyrbCnLkRYGu/ew9NCfmo=
+
+Name: res/mipmap-ldpi-v4/icon.png
+SHA-256-Digest: mB76cloz+2bb3cURIHA0HeZMLF47N5GcP140XWWdqAk=
+
+Name: res/mipmap-mdpi-v4/icon.png
+SHA-256-Digest: 8HuoWuSDBV5lbk6sv2zr+x0ZZiA4NPj2iz3DxqNOHY4=
+
+Name: res/mipmap-xhdpi-v4/icon.png
+SHA-256-Digest: vVzlj2HA+9QB18BAxwzCC7mb4WIbvFaibW97IHsgLgI=
+
+Name: res/mipmap-xxhdpi-v4/icon.png
+SHA-256-Digest: l1T4565feoglf/Qg/CoOd5eY0C7vNnCjN6w37Y/fvRM=
+
+Name: res/mipmap-xxxhdpi-v4/icon.png
+SHA-256-Digest: ziEB+Vyn0CjwN0FeN7k+sMCO59h+6Oow+wcBR0JN/T4=
+
+Name: res/xml/config.xml
+SHA-256-Digest: eAaQLb1nFE1Okg29nGF9SiI1OZmJ/c2i5XNfBtY23GI=
+
+Name: resources.arsc
+SHA-256-Digest: TD8bY5/Yv7Q0D6fTSxM+7o0BgEg+q5YT/2M0xYPZMUc=
+
