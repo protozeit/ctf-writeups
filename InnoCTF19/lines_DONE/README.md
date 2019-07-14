@@ -130,7 +130,7 @@ $ python gen.py
 ...
 ```
 Using these results and retracing the graph manually,
-we have a few pieces to play with, namely `1T_W4S_GO0D_TAC71K5`, `MEQN8`, and `8NQEM1T_GO0D`.
+we have a few pieces to play with, namely `1T_W4S_GO0DTAC71K5`, `MEQN8`, and `8NQEM1T_GO0D`.
 
 A bit of guesswork later we find the flag `1t_w4s_go0dtac71k5meqn8`. Yes it was lowercase. Yes I know it doesn't make sense.
 
