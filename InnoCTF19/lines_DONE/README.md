@@ -3,14 +3,14 @@
 - Category: Crypto
 - Rating: Hard
 
-We have a graph problem on out hands. Since one of the nodes is an underscore, we can be sure that the correct path through the graph will spell out the flag.
+We have a graph problem on our hands. Since one of the nodes is an underscore, we can be sure that the correct path through the graph will spell out the flag.
 ![lines](lines.png)
 
 We can already notice a few things about the graph
 
 - Most of the nodes have 2 edges connected to them, so they're probably show up only once (if they show up more times I'll mean that the same word shows up twice which is improbable)
 - `T` and `_` have more edges than the other nodes which probably means they show up twice in the graph
-- `8` only has one edge, so there's a good change our flag either starts or ends there (or the flag will contain N8N which again, is unlikely)
+- `8` only has one edge, so there's a good chance our flag either starts or ends there (or the flag will contain N8N which again, is unlikely) and the same goes for `1`
 
 At this point we can probably figure it out manually, but let's write some networkx code.
 
