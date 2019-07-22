@@ -7,7 +7,7 @@
 # Challenge
 
 >Zakukozh (Cyber, Baby, 10 pts) Author: Khanov Artur (awengar)
-This image containing flag is encrypted with affine cipher. Scrape it
+>This image containing flag is encrypted with affine cipher. Scrape it
 
 We are given a file encrypted using the affine cipher
 
@@ -52,6 +52,7 @@ open('out.png','wb').write(png)
 ```
 Running file on both shows some metadata for the png which looks promising.
 ![Imgur](https://i.imgur.com/6DcaLZK.png)
+
 And it is the flag.
 ![flag](out.png)
 
