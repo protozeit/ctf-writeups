@@ -1,4 +1,4 @@
-# bbpwn
+# blind
 
 - Category: misc
 - Rating: ? pts
