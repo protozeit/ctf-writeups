@@ -234,6 +234,8 @@ Plan: we forge a proof for `1 + 653086069891774904466108141306028536722619133804
 
 Note, because of how `extract_int` reverses the numbers, we will need to reverse our score too.
 
+We will use [hashpump](https://github.com/bwall/HashPump) to do the hash extension.
+
 
 ```python
 #!/usr/bin/env python
